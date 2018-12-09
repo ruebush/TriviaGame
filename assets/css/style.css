@@ -1,0 +1,31 @@
+/*styling the page*/
+
+#top-jum {
+	font-family: 'Bree Serif', serif;
+	text-align: center;
+	background: url("https://www.eldersweather.com.au/images/maps/wzworld/world.png");
+}
+
+#heading, #content, #responses {
+	font-family: 'Bree Serif', serif;
+	color: darkblue;
+	font-weight: bold;
+}
+
+#time-left {
+	color: crimson;
+}
+
+/*footer*/
+
+.footer {
+	text-align: center;
+	opacity: .7;
+	background-color: black;
+}
+
+
+/*form spacing to keep answers from running together*/
+.twd-opt {
+	margin-right: 20px;
+} 
